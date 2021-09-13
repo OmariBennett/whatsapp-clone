@@ -1,5 +1,5 @@
 # WhatsApp Clone
-A WhatsApp clone  using [React.js](https://reactjs.org/), & [Socket.io](https://socket.io/)
+A WhatsApp clone using [React.js](https://reactjs.org/), & [Socket.io](https://socket.io/)
 
 ### Npm Scripts:
 #### /client
