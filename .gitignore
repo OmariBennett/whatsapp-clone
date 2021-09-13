@@ -1,5 +1,7 @@
-# dependencies
+# Dependencies
 /node_modules
 client/node_modules
 server/node_modules
 
+# Files
+index.txt
